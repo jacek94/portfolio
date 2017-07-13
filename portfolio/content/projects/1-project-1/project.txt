@@ -5,9 +5,4 @@ Title: Strona Internetowa dla  MARSGIPS
 
 
 
-
-
-
-
-
 Text:  Wykorzystane technologie:  Javascript, HTML, CSS
