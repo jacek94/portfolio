@@ -8,6 +8,3 @@ Text:
 
 Wykorzystane technologie:  Javascript, HTML, CSS
 
-----
-
-Tags: 
