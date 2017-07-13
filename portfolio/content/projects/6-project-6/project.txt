@@ -7,5 +7,5 @@ Text:
 
 Wykorzystane technologie:  PHP, Javascript, HTML, CSS
 
-----
+
 
