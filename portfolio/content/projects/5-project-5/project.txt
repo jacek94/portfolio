@@ -1,0 +1,13 @@
+Title: Strona Internetowa dla firmy GMD Plus
+
+----
+
+
+Text: 
+
+
+Wykorzystane technologie:  Javascript, HTML, CSS
+
+----
+
+Tags: 

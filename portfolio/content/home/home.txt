@@ -1,0 +1,38 @@
+Title: Jacek  Woźniak | Portfolio
+
+----
+
+Text: 
+
+----
+
+About-text: 
+
+#O mnie
+(image: zdjęcie.jpg)
+Mam na imię Jacek i od zawsze interesowałem się informatyką. Z czasem zacząłem tworzyć strony internetowe .Obecnie wciąż rozwijam swoje umiejętności w tej dziedzinie. W zakładce portfolio można zobaczyć strony internetowe, nad którymi  pracowałem.
+
+----
+
+Resume-text: 
+
+#Podsumowanie
+
+
+
+###Umiejętności:
+HTML/CSS
+Javascript
+PHP
+Git
+
+
+
+###Wykształcenie
+
+2010-2014
+Technik elektronik. Zespół  Szkół Górniczo-Energetycznych im Stanisława  Staszica w Koninie
+
+2014 - 2017
+Informatyka Stosowana. Uniwersytet Technologiczno - Przyrodniczy w Bydgoszczy
+
